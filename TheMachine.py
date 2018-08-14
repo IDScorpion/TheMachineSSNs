@@ -1,6 +1,7 @@
 ##The Machine SSN Generator by u/id_scorpion##
 import sqlite3 as lite
 import os
+import random
 
 homeFile = 'TheMachine\\names_numbers.db'#included in zip
 homeDirectory = 'TheMachine\\'
